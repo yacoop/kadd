@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${default}",
-                "/usr/include/root"
+                "/usr/include/root",
+                "/usr/include/c++/12/"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
